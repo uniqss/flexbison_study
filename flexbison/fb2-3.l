@@ -1,11 +1,3 @@
-/* Companion source code for "flex & bison", published by O'Reilly
- * Media, ISBN 978-0-596-15597-1
- * Copyright (c) 2009, Taughannock Networks. All rights reserved.
- * See the README file for license conditions and contact info.
- * $Header: /home/johnl/flnb/code/RCS/fb2-3.l,v 2.3 2010/01/04 02:43:58 johnl Exp $
- */
-
-/* fb2-3 skeleton for include files */
 
 %option noyywrap warn nodefault
 %x IFILE
